@@ -5,7 +5,7 @@ Made this face mask detector using Convolutional Neural Networks with the help o
 <h3><b>Improved the accuracy from 96% to 98.7%</b></h3>
 
 ### Dataset
-[Link](https://drive.google.com/file/d/1MRTO03WAvc69un-93UhCFErsW3ZtZp6T/view)
+[Link](https://drive.google.com/file/d/1MRTO03WAvc69un-93UhCFErsW3ZtZp6T/view) <br />
 This is an open dataset that contains approx 12k images divided into different direcotries for train and testing the model. <br />
 Inside each directory, there are separate directories for masked images and un-masked images.
 
